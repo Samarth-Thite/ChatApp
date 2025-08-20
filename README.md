@@ -47,10 +47,22 @@ The project demonstrates integration of REST APIs, real-time chat features, and 
 **Tools:** Git, GitHub, Postman  
 
 ---
+## 👥 Leader
+- **Samarth Prasad Thite** – Full Stack Developer
 
-## ⚙️ Installation & Setup
+---
 
-### Backend (Spring Boot)
-1. Navigate to backend folder:
-   ```bash
-   cd backend
+## 📞 Contact
+📧 **Email**: samarththite1010@gmail.com 
+🔗 **GitHub**: [Samarth-Thite](https://github.com/Samarth-Thite)  
+💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)  
+
+   
+## 👥 Team Members
+- **Kartik Shankar Gade** – Full Stack Developer
+- **Amitabh Prasad Shinde** – Full Stack Developer
+---
+## 📞 Contact
+📧 **Email**: gadeshankar337@gmail.com  
+📧 **Email**: amitabhshindevolley45@gmail.com
+
