@@ -53,10 +53,8 @@ The project demonstrates integration of REST APIs, real-time chat features, and 
 ---
 
 ## 📞 Contact
-📧 **Email**: samarththite1010@gmail.com 
-🔗 **GitHub**: [Samarth-Thite](https://github.com/Samarth-Thite)  
-💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)  
 
+📧 **Email**: samarththite1010@gmail.com
    
 ## 👥 Team Members
 - **Kartik Shankar Gade** – Full Stack Developer
