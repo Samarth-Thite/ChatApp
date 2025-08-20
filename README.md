@@ -34,9 +34,10 @@ The project demonstrates integration of REST APIs, real-time chat features, and 
 <img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/d370f77f-bab2-4e48-aa01-49819d8dba72" />
 
 ### 💬 Chat Interface
-![Chat](screenshots/chat.png)
 
----
+
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/f663e77c-da36-4ea9-b538-801b4144d8a2" />
+
 
 ## 🛠️ Tech Stack
 
