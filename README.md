@@ -31,7 +31,7 @@ The project demonstrates integration of REST APIs, real-time chat features, and 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/d370f77f-bab2-4e48-aa01-49819d8dba72" />
 
 ### 💬 Chat Interface
 ![Chat](screenshots/chat.png)
