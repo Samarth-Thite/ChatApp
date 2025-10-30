@@ -58,9 +58,9 @@ The project demonstrates integration of REST APIs, real-time chat features, and 
    
 ## 👥 Team Members
 - **Kartik Shankar Gade** – Full Stack Developer
-- **Amitabh Prasad Shinde** – Full Stack Developer
+
 ---
 ## 📞 Contact
 📧 **Email**: gadeshankar337@gmail.com  
-📧 **Email**: amitabhshindevolley45@gmail.com
+
 
